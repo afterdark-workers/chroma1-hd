@@ -2,7 +2,7 @@
 
 > 🔞 **Adult (18+) · NSFW** — part of afterdark-workers, workers for uncensored adult image and video models.
 
-A ready-to-build [RunPod Serverless](https://runpod.io?ref=qpguwapm) worker for **[Chroma1-HD](https://huggingface.co/Comfy-Org/Chroma1-HD)** by lodestones — an open, uncensored 8.9B model based on FLUX.1 [schnell] (Apache 2.0). Based on the official [`runpod/worker-comfyui`](https://github.com/runpod-workers/worker-comfyui).
+A ready-to-build [RunPod Serverless](https://runpod.io?ref=qpguwapm) worker for **[Chroma1-HD](https://huggingface.co/Comfy-Org/Chroma1-HD)** by [lodestones](https://huggingface.co/lodestones) — an open, uncensored 8.9B model based on FLUX.1 [schnell] (Apache 2.0). Based on the official [`runpod/worker-comfyui`](https://github.com/runpod-workers/worker-comfyui).
 
 Models are baked into the image, so a cold start does not re-download anything.
 
